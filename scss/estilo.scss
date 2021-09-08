@@ -93,7 +93,7 @@ li {
 	}
 }
 .navbar-expand-lg {
-	background: linear-gradient(to bottom, $violeta, $celeste);
+	background: linear-gradient(to bottom, $violeta, $celeste, $blanco);
 }
 .footer {
 	display: flex;
@@ -103,7 +103,7 @@ li {
 	background-color: $celeste;
 }
 .footer__gradiente {
-	background: linear-gradient(to bottom, $celeste, $violeta);
+	background: linear-gradient(to bottom, $blanco, $celeste, $violeta);
 }
 .footer__nombre{
 	font-family: 'Comfortaa';
